@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 #  Alô mundo, me chamo Raquel Maia. Prazer 👩🏽
 <ul>
 <p>🌵Nordestina</p>
-<p>👩🏽‍💻 Análise e desenvolvimento de Sistema(2023-2024)</p>
+<p>👩🏽‍💻 Análise e desenvolvimento de Sistema (2023-2024)</p>
 <p>📚 No momento estou estudando HTML, CSS e JavaScript</p>
 <p>😊 Pronome: Ela/dela</p>
  </ul>
