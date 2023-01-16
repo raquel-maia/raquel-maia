@@ -15,11 +15,14 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<div align="center">
-  <a href="https://github.com/raquel-maia/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquel-maia&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&theme=shades-of-purple"
+  media="(prefers-color-scheme: shades-of-purple)"
+/>
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true" />
+</picture>
 
 <div style="display: inline_block">
 
