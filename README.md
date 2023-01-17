@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   srcset="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&theme=shades-of-purple"
   media="(prefers-color-scheme: shades-of-purple)"
 />
-/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true" />
 </picture>
 
