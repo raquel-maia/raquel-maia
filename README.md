@@ -16,13 +16,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&theme=shades-of-purple"
-  media="(prefers-color-scheme: shades-of-purple)"
-/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&theme=synthwave"
+    media="(prefers-color-scheme:synthwave)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&theme=synthwave" />
 </picture>
+
 
 <div style="display: inline_block">
 
@@ -34,20 +34,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Raquel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 </div>
 
-
-<div align="center">
-<h1>📲Redes sociais</h1>
-
-  <a href="https://www.instagram.com/nordestina_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:raquelmaia860@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-  <a href="https://www.linkedin.com/in/raquel-maia-860/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-</div>
-
-
-
 <div align="left">
-<h1>Meus Projetos</h1>
+<h1>Principais Projetos</h1>
 <ul>
  
  ## [Portfolio](https://raquel-maia.github.io/portfolio/)
@@ -56,6 +44,15 @@ You can click the Preview link to take a look at your changes.
  ## [MyLinks](https://raquel-maia.github.io/my-links/)
  ## [DevLinks/Rockeseat](https://raquel-maia.github.io/rocketseat/)
 </ul>
+</div>
+
+<div align="center">
+<h1>📲Redes sociais</h1>
+
+  <a href="https://www.instagram.com/nordestina_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:raquelmaia860@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+  <a href="https://www.linkedin.com/in/raquel-maia-860/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
 </div>
 
 
