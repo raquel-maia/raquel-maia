@@ -31,7 +31,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Raquel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Raquel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Raquel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
- 
 </div>
 
 <div align="left">
@@ -43,6 +42,13 @@ You can click the Preview link to take a look at your changes.
  ## [Dicionário de Mulheres Negras](https://raquel-maia.github.io/dicionario/)
  ## [MyLinks](https://raquel-maia.github.io/my-links/)
  ## [DevLinks/Rockeseat](https://raquel-maia.github.io/rocketseat/)
+ 
+  ##  Confira!
+<div style="display: flex;">
+  <img src="cv.png" style="flex: 1;">
+  <img src="my-links.png" style="flex: 1;">
+  <img src="dicionario.png" style="flex: 1;">
+</div>
 </ul>
 </div>
 
