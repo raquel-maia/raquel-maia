@@ -1,0 +1,52 @@
+name: Generate Datas
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Summary Cards
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: raquel-maia
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          
+      - name: Copy files to main branch
+        run: |
+          mkdir -p dist
+          cp dist/github-contribution-grid-snake.svg $GITHUB_WORKSPACE/github-contribution-grid-snake.svg
+        env:
+          GITHUB_WORKSPACE: ${{ github.workspace }}
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Snake Animation
+          path: $GITHUB_WORKSPACE/github-contribution-grid-snake.svg
+          
+      - name: Update README.md
+        run: |
+          sed -i 's|![Snake animation](.*github-contribution-grid-snake.svg)|![Snake animation](./github-contribution-grid-snake.svg)|' README.md
+        env:
+          GITHUB_WORKSPACE: ${{ github.workspace }}
+          
+      - uses: actions/commit@v1
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          commit_message: Update Snake Animation
+          path: README.md
+
