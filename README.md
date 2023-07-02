@@ -9,19 +9,17 @@ You can click the Preview link to take a look at your changes.
 <ul>
 <p>🌵Nordestina</p>
 <p>👩🏽‍💻 Análise e desenvolvimento de Sistema (2023-2025)</p>
-<p>📚 No momento estou estudando HTML, CSS e JavaScript</p>
+<p>📚 No momento estou estudando HTML, CSS, JavaScript, Firebase e outras tecnologias (Participando do bootcamp da Laboratoria)</p>
 <p>😊 Pronome: Ela/dela</p>
- </ul>
-
-
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&theme=synthwave"
-    media="(prefers-color-scheme:synthwave)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&theme=synthwave" />
-</picture>
+</ul>
+ ![Snake animation](https://github.com/raquel-maia/raquel-maia/blob/output/github-contribution-grid-snake.svg)
+<div >
+  <a href="https://github.com/raquel-maia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquel-maia&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+   
+<h1>🤖Tecnologias</h1>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Giu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,16 +35,6 @@ You can click the Preview link to take a look at your changes.
   
   <div> 
     
-</div>
-
-
-<div style="display: inline_block">
-
-<h1>🤖Tecnologias</h1>
-
-  <img align="center" alt="Raquel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Raquel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Raquel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 </div>
 
 <div align="left">
