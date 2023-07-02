@@ -12,11 +12,14 @@ You can click the Preview link to take a look at your changes.
 <p>📚 No momento estou estudando HTML, CSS, JavaScript, Firebase e outras tecnologias (Participando do bootcamp da Laboratoria)</p>
 <p>😊 Pronome: Ela/dela</p>
 </ul>
- ![Snake animation](https://github.com/raquel-maia/raquel-maia/blob/output/github-contribution-grid-snake.svg)
+
 <div >
   <a href="https://github.com/raquel-maia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquel-maia&layout=compact&langs_count=7&theme=dracula"/>
+   
+   ![Snake animation](https://github.com/raquel-maia/raquel-maia/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
    
 <h1>🤖Tecnologias</h1>
