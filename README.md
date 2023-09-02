@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
  
   ##  Confira!
 <div style="display: flex;">
-  <img src="cv.png" style="flex: 1;">
+
   <img src="my-links.png" style="flex: 1;">
   <img src="dicionario.png" style="flex: 1;">
 </div>
