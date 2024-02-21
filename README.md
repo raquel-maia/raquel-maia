@@ -8,8 +8,7 @@ You can click the Preview link to take a look at your changes.
 #  Alô mundo, me chamo Raquel Maia. Prazer 👩🏽
 <ul>
 <p>🌵Nordestina</p>
-<p>👩🏽‍💻 Análise e desenvolvimento de Sistema (2023-2025)</p>
-<p>📚 No momento estou estudando HTML, CSS, JavaScript, Firebase e outras tecnologias (Participando do bootcamp da Laboratoria)</p>
+<p>👩🏽‍💻No momento estou estudando Pyhton, SQL, Pandas, Banco de Dados, Computação em Nuvem (Participando do bootcamp da WomakersCode)</p>
 <p>😊 Pronome: Ela/dela</p>
 </ul>
 
