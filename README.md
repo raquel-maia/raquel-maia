@@ -7,17 +7,11 @@ You can click the Preview link to take a look at your changes.
 
 #  Alô mundo, me chamo Raquel Maia. Prazer 👩🏽
 <ul>
-<p>🌵Nordestina</p>
-<p>👩🏽‍💻No momento estou estudando Pyhton, SQL, Pandas, Banco de Dados, Computação em Nuvem (Participando do bootcamp da WomakersCode)</p>
-<p>😊 Pronome: Ela/dela</p>
+<a href="https://github.com/raquel-maia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&theme=aura&include_all_commits=true&hide=contribs,issues&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquel-maia&layout=compact&langs_count=7&theme=aura"/>
+</a>
 </ul>
-
-<div >
-  <a href="https://github.com/raquel-maia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquel-maia&layout=compact&langs_count=7&theme=dracula"/>
-   
-   ![Snake animation](https://github.com/raquel-maia/raquel-maia/blob/output/github-contribution-grid-snake.svg)
    
 </div>
    
