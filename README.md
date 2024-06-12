@@ -1,11 +1,11 @@
-
-
 <!---
 raquel-maia/raquel-maia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 #  Alô mundo, me chamo Raquel Maia. Prazer 👩🏽
+# No momento estou participando do Bootcamp de Data Analyitcs da WomarkerCode 👩🏽‍💻
+# Estudando ADS 👩🏽‍🎓
 <ul>
 <a href="https://github.com/raquel-maia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&theme=aura&include_all_commits=true&hide=contribs,issues&count_private=true"/>
