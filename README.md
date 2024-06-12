@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 #  Alô mundo, me chamo Raquel Maia. Prazer 👩🏽
 
- - No momento estou participando do Bootcamp de Data Analyitcs da WomarkerCode 👩🏽‍💻
+ - No momento, estou participando do Bootcamp de Data Analyitcs da WoMakersCode  📊
  - Estudando ADS 👩🏽‍🎓
    
 <ul>
@@ -37,20 +37,19 @@ You can click the Preview link to take a look at your changes.
 
 <div align="left">
 <h1>Principais Projetos</h1>
-<ul>
- ## [Performate]((https://perfomate.streamlit.app/)]
- ## [Portfolio](https://raquel-maia.github.io/portfolio/)
- ## [Dicionário de Mulheres Negras](https://raquel-maia.github.io/dicionario/)
- ## [MyLinks](https://raquel-maia.github.io/my-links/)
- ## [DevLinks/Rockeseat](https://raquel-maia.github.io/rocketseat/)
  
-  ##  Confira!
-<div style="display: flex;">
+  ## [Performate](https://perfomate.streamlit.app/)
+  ## [Portfolio](https://raquel-maia.github.io/portfolio/)
+  ## [Dicionário de Mulheres Negras](https://raquel-maia.github.io/dicionario/)
+  ## [MyLinks](https://raquel-maia.github.io/my-links/)
+  ## [DevLinks/Rockeseat](https://raquel-maia.github.io/rocketseat/)
 
+  
+<div style="display: flex;">
   <img src="my-links.png" style="flex: 1;">
   <img src="dicionario.png" style="flex: 1;">
 </div>
-</ul>
+
 </div>
 
 <div align="center">
