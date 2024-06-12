@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 #  Alô mundo, me chamo Raquel Maia. Prazer 👩🏽
 
- - No momento, estou participando do Bootcamp de Data Analyitcs da WoMakersCode  📊
+ - No momento, estou participando do Bootcamp de Data Analytics da WoMakersCode  📊
  - Estudando ADS 👩🏽‍🎓
    
 <ul>
