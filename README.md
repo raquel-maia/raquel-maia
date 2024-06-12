@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
  - No momento estou participando do Bootcamp de Data Analyitcs da WomarkerCode 👩🏽‍💻
  - Estudando ADS 👩🏽‍🎓
- - 
+   
 <ul>
 <a href="https://github.com/raquel-maia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&theme=aura&include_all_commits=true&hide=contribs,issues&count_private=true"/>
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
 <h1>Principais Projetos</h1>
 <ul>
- 
+ ## [Performate]((https://perfomate.streamlit.app/)]
  ## [Portfolio](https://raquel-maia.github.io/portfolio/)
  ## [Dicionário de Mulheres Negras](https://raquel-maia.github.io/dicionario/)
  ## [MyLinks](https://raquel-maia.github.io/my-links/)
@@ -54,6 +54,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="center">
+ 
 <h1>📲Redes sociais</h1>
 
   <a href="https://www.instagram.com/nordestina_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
