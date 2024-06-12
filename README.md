@@ -3,7 +3,7 @@ raquel-maia/raquel-maia is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-#  Alô mundo, me chamo Raquel Maia. Prazer 👩🏽
+#  Olá, mundo! Me chamo Raquel Maia. Prazer 👩🏽
 
  - No momento, estou participando do Bootcamp de Data Analytics da WoMakersCode  📊
  - Estudando ADS 👩🏽‍🎓
@@ -45,8 +45,9 @@ You can click the Preview link to take a look at your changes.
 
   
 <div style="display: flex;">
-  <img src="my-links.png" style="flex: 1;">
-  <img src="dicionario.png" style="flex: 1;">
+ <img src="perfor-update.png" style="flex: 1;">
+ <img src="my-links.png" style="flex: 1;">
+ <img src="dicionario.png" style="flex: 1;">
 </div>
 
 </div>
