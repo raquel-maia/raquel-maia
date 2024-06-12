@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
    
 <ul>
 <a href="https://github.com/raquel-maia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&theme=aura&include_all_commits=true&hide=contribs,issues&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquel-maia&layout=compact&langs_count=7&theme=aura"/>
 </a>
 </ul>
