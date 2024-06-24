@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">  
-  <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&count_private=true&hide_border=true&title_color=f2e8cf&icon_color=bc4749&langs_count=7&theme=aura" alt="Raquel Maia github stats" /> 
+ <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&count_private=true&hide_border=true&title_color=f2e8cf&icon_color=bc4749&langs_count=7&theme=aura" alt="Raquel Maia github stats" /> 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquel-maia&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
