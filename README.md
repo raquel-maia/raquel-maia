@@ -9,9 +9,21 @@ You can click the Preview link to take a look at your changes.
  - Estudando ADS 👩🏽‍🎓
    
 <ul>
-<a href="https://github.com/raquel-maia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquel-maia&layout=compact&langs_count=7&theme=aura"/>
-</a>
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=aura&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC11D8EB&size=22&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raquel+Maia!;I'm+from+São+Paulo,+Brazil.;I'm+learning+Data+Analytics+and+Programmig.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+<div align="center">  
+  <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api?username=raquel-maia&show_icons=true&count_private=true&hide_border=true&title_color=f2e8cf&icon_color=bc4749&langs_count=7&theme=aura" alt="Raquel Maia github stats" /> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquel-maia&layout=compact&langs_count=7&theme=aura"/>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=aura&height=120&section=footer"/>
+
 </ul>
    
 </div>
