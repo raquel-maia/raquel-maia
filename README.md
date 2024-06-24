@@ -3,7 +3,8 @@ raquel-maia/raquel-maia is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hello, world! Me chamo Raquel Maia. Muito Prazer 👩🏽‍💻</h1>
+<h1 align="center" style="color:#9B30FF;">Hello, world! Me chamo Raquel Maia. Muito Prazer 👩🏽‍💻</h1>
+
    
 <ul>
 
