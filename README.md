@@ -3,9 +3,17 @@ raquel-maia/raquel-maia is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center" style="color:#9B30FF;">Hello, world! Me chamo Raquel Maia. Muito Prazer 👩🏽‍💻</h1>
-
+   # 👩🏽‍💻 Raquel Maia
    
+   🌵 **Location:** From Fortaleza, CE, Brazil, currently based in São Paulo.
+   
+   👩🏽‍🎓 **Education:** Studying Analysis and Systems Development
+   
+   💡 **Interests:** Passionate about learning new technologies and expanding my skills in system development.
+   
+
+
+  
 <ul>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=aura&height=120&section=header"/>
