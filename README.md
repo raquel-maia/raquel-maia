@@ -47,6 +47,8 @@ You can click the Preview link to take a look at your changes.
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white&logoWidth=40)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&logoWidth=40)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&logoWidth=40)
+![FastApi](https://img.shields.io/badge/-FastApi-009485?style=flat-square&logo=fastapi&logoColor=white&logoWidth=40)
+![FastApi](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=whitee&logoWidth=40)
 
     
 </div>
