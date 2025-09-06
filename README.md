@@ -56,18 +56,10 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
 <h1>Principais Projetos</h1>
  
-  ## [Performate](https://perfomate.streamlit.app/)
   ## [Portfolio](https://raquel-maia.github.io/portfolio/)
   ## [Dicionário de Mulheres Negras](https://raquel-maia.github.io/dicionario/)
   ## [MyLinks](https://raquel-maia.github.io/my-links/)
   ## [DevLinks/Rockeseat](https://raquel-maia.github.io/rocketseat/)
-
-  
-<div style="display: flex;">
- <img src="perfor-update.png" style="flex: 1;">
- <img src="my-links.png" style="flex: 1;">
- <img src="dicionario.png" style="flex: 1;">
-</div>
 
 </div>
 
@@ -75,7 +67,6 @@ You can click the Preview link to take a look at your changes.
  
 <h1>📲Redes sociais</h1>
 
-  <a href="https://www.instagram.com/nordestina_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:raquelmaia860@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a href="https://www.linkedin.com/in/raquel-maia-860/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
